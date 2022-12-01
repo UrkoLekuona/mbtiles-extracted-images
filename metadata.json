@@ -1,0 +1,10 @@
+{
+    "name": "base_mobile_gris_15_30_4_60", 
+    "format": "jpg", 
+    "bounds": "-2.6032558460180257,42.8906206035814,-1.7271339179325924,43.40165348726087", 
+    "minzoom": "9", 
+    "version": "1.1", 
+    "maxzoom": "15", 
+    "type": "overlay", 
+    "description": "base_mobile_gris_15_30_4_60"
+}
